@@ -1,3 +1,5 @@
+import React from 'react';
+
 const SearchBar = () => {
     const handleClick = (e) => {
         console.log(document.getElementById('city').value)
