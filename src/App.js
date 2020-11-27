@@ -58,7 +58,7 @@ class App extends React.Component {
   render() {
 
     return (
-      <div>
+      <div className="main">
           <SearchBar />
           <Card city={store.getState().long} />
       </div>

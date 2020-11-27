@@ -9,3 +9,7 @@ span {
 .data {
     width: 70vw
 }
+
+button {
+    padding: 1%;
+}
